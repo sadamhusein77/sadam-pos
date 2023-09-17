@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "plu": "PDCT0000001",
+        "name": "Cheetos",
+        "product_category_id": 1,
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    },
+    {
+        "id": 2,
+        "plu": "PDCT0000002",
+        "name": "Indomie",
+        "product_category_id": 1,
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    },
+    {
+        "id": 3,
+        "plu": "PDCT0000003",
+        "name": "Air Mineral Aqua",
+        "product_category_id": 2,
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    }
+]

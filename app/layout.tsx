@@ -5,10 +5,11 @@ import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 import { Providers } from '@/redux/provider';
+import ToastContainerWrapper from './ToastContainerWrapper';
 
 export const metadata: Metadata = {
-  title: 'Medical POS',
-  description: 'Web Medical POS',
+  title: 'Sadam POS',
+  description: 'Web Sadam POS',
 }
 
 export default function RootLayout({
@@ -20,6 +21,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <Providers>{children}</Providers>
+        <ToastContainerWrapper />
       </body>
     </html>
   )

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Makanan",
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    },
+    {
+        "id": 2,
+        "name": "Minuman",
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    },
+    {
+        "id": 3,
+        "name": "Obat-obatan",
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    },
+    {
+        "id": 4,
+        "name": "Sabun / Deterjen",
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    },
+    {
+        "id": 5,
+        "name": "Alat Rumah Tangga",
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    }
+]

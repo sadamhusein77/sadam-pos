@@ -13,7 +13,7 @@ let refreshSubscribers = [];
 
 // Request interceptor
 apiService.interceptors.request.use(async (config) => {
-  const token = Cookies.get("access-token-pos");
+  const token = Cookies.get("token-pos");
   if (token) {
     config.headers["Authorization"] = `Bearer ${token}`;
   }

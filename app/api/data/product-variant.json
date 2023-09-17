@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "product_id": 2,
+        "code": "PDCT00000020001",
+        "name": "Indomie Goreng Original",
+        "qty": 1000,
+        "price": 3000,
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    },
+    {
+        "id": 2,
+        "product_id": 2,
+        "code": "PDCT00000020002",
+        "name": "Indomie Ayam Bawang",
+        "qty": 500,
+        "price": 2700,
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    },
+    {
+        "id": 3,
+        "product_id": 2,
+        "code": "PDCT00000020002",
+        "name": "Indomie Goreng Original",
+        "qty": 1000,
+        "price": 3000,
+        "active": true,
+        "created_user": "OPERATOR",
+        "created_date": "2023-09-17 07:00:00",
+        "updated_user": null,
+        "updated_date": null
+    }
+]
